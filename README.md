@@ -1,4 +1,4 @@
-# slakc-community-kr
+# slack-community-kr
 Korea Community using slack
 
 
