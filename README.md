@@ -4,7 +4,7 @@ Korea Community using slack
 
 - [이상한모임](https://weirdmeetup.slack.com)
 - [pyjog](https://pyjog.slack.com)
-- [Modern PHP User Group]
+- Modern PHP User Group
   - 초대 : [http://slack-invite.modernpug.org](http://slack-invite.modernpug.org/)
 - [포프티비](popetv.slack.com)
 - [나는프로그래머다](https://iamprogrammerio.slack.com)
@@ -13,5 +13,5 @@ Korea Community using slack
 - [codeforseoul](https://codeforseoul.slack.com)
 - [XpressEngine](https://xetown.slack.com)
   - 초대 : [https://xetown.herokuapp.com](https://xetown.herokuapp.com/)
-- [라라벨 슬랫 코리아]()
+- 라라벨 슬랙 코리아
   - 초대 : [https://laravelkr.typeform.com/to/J9wvKD](https://laravelkr.typeform.com/to/J9wvKD)
