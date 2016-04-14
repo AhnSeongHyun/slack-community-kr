@@ -20,3 +20,5 @@ Korea Community using slack
   - 초대 : [https://laravelkr.typeform.com/to/J9wvKD](https://laravelkr.typeform.com/to/J9wvKD)
 - [OpenStack 한국 사용자모임](http://openstack.or.kr/)
   - 초대 : [http://openstack-checkin.herokuapp.com/](http://openstack-checkin.herokuapp.com/)
+- [GDG Korea](https://gdgkr.slack.com)
+  - 초대 : [https://gdgkr.herokuapp.com/](https://gdgkr.herokuapp.com/)
