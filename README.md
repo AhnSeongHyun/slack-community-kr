@@ -18,3 +18,5 @@ Korea Community using slack
   - 초대 : [https://xetown.herokuapp.com](https://xetown.herokuapp.com/)
 - [라라벨 슬랙 코리아](https://laravelkorea.slack.com)
   - 초대 : [https://laravelkr.typeform.com/to/J9wvKD](https://laravelkr.typeform.com/to/J9wvKD)
+- [OpenStack 한국 사용자모임](http://openstack.or.kr/)
+  - 초대 : [http://openstack-checkin.herokuapp.com/](http://openstack-checkin.herokuapp.com/)
