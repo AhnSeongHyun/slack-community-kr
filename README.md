@@ -11,6 +11,7 @@ Korea Community using slack
 - [포프티비](popetv.slack.com)
 - [나는프로그래머다](https://iamprogrammerio.slack.com)
 - [Julia 한국 커뮤니티](https://juliakorea.slack.com/)
+  - 초대 : [http://juliakorea-slack.herokuapp.com/](http://juliakorea-slack.herokuapp.com/)
 - [RORLAB](https://rorlab.slack.com)
 - [codeforseoul](https://codeforseoul.slack.com)
 - [XpressEngine](https://xetown.slack.com)
