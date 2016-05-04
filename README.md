@@ -24,3 +24,5 @@ Korea Community using slack
   - 초대 : [http://openstack-checkin.herokuapp.com/](http://openstack-checkin.herokuapp.com/)
 - [GDG Korea](https://gdgkr.slack.com)
   - 초대 : [https://gdgkr.herokuapp.com/](https://gdgkr.herokuapp.com/)
+- [코코TV](https://codecoast-tv.slack.com/)
+  - 초대 : [https://codecoast-tv-slack.herokuapp.com/](https://codecoast-tv-slack.herokuapp.com/)
