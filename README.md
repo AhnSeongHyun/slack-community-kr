@@ -26,3 +26,10 @@ Korea Community using slack
   - 초대 : [https://gdgkr.herokuapp.com/](https://gdgkr.herokuapp.com/)
 - [코코TV](https://codecoast-tv.slack.com/)
   - 초대 : [https://codecoast-tv-slack.herokuapp.com/](https://codecoast-tv-slack.herokuapp.com/)
+- [9XDEV](https://9xd.slack.com/)
+  - 초대 : [https://festi.kr/zlack/team/T0ZAS4K7Z/16/invitation/](https://festi.kr/zlack/team/T0ZAS4K7Z/16/invitation/)
+- [Apple Developers Korea](https://appledevkr.slack.com/)
+  - 초대 : [https://festi.kr/zlack/team/T07M35JU8/6/invitation/](https://festi.kr/zlack/team/T07M35JU8/6/invitation/)
+- [ASK Django](https://askdjango.slack.com/)
+  - 초대 : [https://festi.kr/zlack/team/T0E8CEYTZ/8/invitation/](https://festi.kr/zlack/team/T0E8CEYTZ/8/invitation/)
+  
