@@ -32,4 +32,14 @@ Korea Community using slack
   - 초대 : [https://festi.kr/zlack/team/T07M35JU8/6/invitation/](https://festi.kr/zlack/team/T07M35JU8/6/invitation/)
 - [ASK Django](https://askdjango.slack.com/)
   - 초대 : [https://festi.kr/zlack/team/T0E8CEYTZ/8/invitation/](https://festi.kr/zlack/team/T0E8CEYTZ/8/invitation/)
-  
+- [Django Korea](http://djangokorea.slack.com/)
+  - 초대 : [https://festi.kr/zlack/team/T0E4AM2AF/5/invitation/](https://festi.kr/zlack/team/T0E4AM2AF/5/invitation/)
+- [OneQ](http://oneq.slack.com/)
+  - 초대 : [https://festi.kr/zlack/team/T0E40ARUZ/9/invitation/](https://festi.kr/zlack/team/T0E40ARUZ/9/invitation/)
+- [p-rogramming](http://p-rogramming.slack.com/)
+  - 초대 : [https://festi.kr/zlack/team/T0HRBTF8Q/14/invitation/](https://festi.kr/zlack/team/T0HRBTF8Q/14/invitation/) 
+- [reactkorea](http://reactkorea.slack.com/)
+  - 초대 : [https://festi.kr/zlack/team/T17233PB7/17/invitation/](https://festi.kr/zlack/team/T17233PB7/17/invitation/)
+- [StoryUP(꿀정보IT블로그 모아보기)](http://storyup.slack.com/)
+  - 초대 : [https://festi.kr/zlack/team/T07G2HAUW/12/invitation/](https://festi.kr/zlack/team/T07G2HAUW/12/invitation/)
+
