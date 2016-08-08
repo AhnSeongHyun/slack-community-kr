@@ -42,4 +42,5 @@ Korea Community using slack
   - 초대 : [https://festi.kr/zlack/team/T17233PB7/17/invitation/](https://festi.kr/zlack/team/T17233PB7/17/invitation/)
 - [StoryUP(꿀정보IT블로그 모아보기)](http://storyup.slack.com/)
   - 초대 : [https://festi.kr/zlack/team/T07G2HAUW/12/invitation/](https://festi.kr/zlack/team/T07G2HAUW/12/invitation/)
-
+- [AWSKRUG:AWS한국사용자모임](https://awskrug.slack.com)
+  - 초대 : [http://slack.awskr.org/](http://slack.awskr.org/)
