@@ -58,3 +58,5 @@ Korea Community using slack
   - 초대 : [https://tensorflowkr-login.herokuapp.com/](https://tensorflowkr-login.herokuapp.com/)
 - [Kotlin Korea](https://kotlinkr.slack.com/)
   - 초대 : [https://kotlinkr.herokuapp.com/](https://kotlinkr.herokuapp.com) 
+- [Vue.js 한국어 사용자 모임](https://vuejs-korea.slack.com)
+  - 초대 : [https://vuejs-korea.signup.team/](https://vuejs-korea.signup.team/)
