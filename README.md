@@ -60,3 +60,6 @@ Korea Community using slack
   - 초대 : [https://kotlinkr.herokuapp.com/](https://kotlinkr.herokuapp.com) 
 - [Vue.js 한국어 사용자 모임](https://vuejs-korea.slack.com)
   - 초대 : [https://vuejs-korea.signup.team/](https://vuejs-korea.signup.team/)
+- [TypeScript Korea](https://slack.typescriptkr.org/)
+  - 초대 : [https://ts-korea.now.sh/](https://ts-korea.now.sh/)
+
